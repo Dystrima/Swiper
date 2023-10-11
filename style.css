@@ -73,7 +73,7 @@ body {
     display: grid !important;
     grid-template-columns: 150px 150px 150px;
     grid-template-rows: 150px 150px 150px;
-    gap: 40px;
+    gap: 33px;
     height: 516px;
 }
 
@@ -90,6 +90,6 @@ body {
 .swiper-slide img {
     display: block;
     width: 100%;
-    height: auto%;
+    height: auto;
     object-fit: cover;
 }
